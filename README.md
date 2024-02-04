@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Print Desk App
+This app is avilable on [printdesk.xyz](https://printdesk.xyz) You can visit on this site.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## Approaches
+A new approach to design your cover page and doc printing service inside the college campus.
 
 ### `npm start`
 

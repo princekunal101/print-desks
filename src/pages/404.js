@@ -11,8 +11,6 @@ const Page404 = () => {
     <>
       <Navbar />
       <div className="not-found-container margin-all">
-        
-        
           <h1>404 Not Found</h1>
           <img className="forbidden-emoji" src="%PUBLIC_URL%/images/sad-emoji.webp" alt="not-found-emoji"></img>
           <h1>Sorry, The page you are looking that not exist.</h1>
