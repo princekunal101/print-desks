@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/print-desk/static/css/main.4528c1b1.css",
-    "main.js": "/print-desk/static/js/main.cf559071.js",
+    "main.js": "/print-desk/static/js/main.60e5dfa9.js",
     "static/js/592.b7a19ac2.chunk.js": "/print-desk/static/js/592.b7a19ac2.chunk.js",
     "index.html": "/print-desk/index.html",
     "main.4528c1b1.css.map": "/print-desk/static/css/main.4528c1b1.css.map",
-    "main.cf559071.js.map": "/print-desk/static/js/main.cf559071.js.map",
+    "main.60e5dfa9.js.map": "/print-desk/static/js/main.60e5dfa9.js.map",
     "592.b7a19ac2.chunk.js.map": "/print-desk/static/js/592.b7a19ac2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4528c1b1.css",
-    "static/js/main.cf559071.js"
+    "static/js/main.60e5dfa9.js"
   ]
 }
