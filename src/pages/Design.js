@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 const DesignTab = () => {
+
+  useEffect(() => {
+    document.title = 'Design Cover Page | printdesk.xyz';
+  }, []);
   return (<>
     <Navbar />
     <div className="margin-all">
