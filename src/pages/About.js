@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 const About = () => {
   return (<>
     <Navbar />
-    <div className="margin-ll">
+    <div className="margin-all">
       <h1>About us</h1>
     </div>
 

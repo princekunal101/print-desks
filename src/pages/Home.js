@@ -7,7 +7,8 @@ import Footer from "../components/Footer";
 const Home = () => {
   return (<>
     <Navbar />
-    <h1>Home Tab</h1>
+    <div className="margin-all"><h1>Home Tab</h1></div>
+    
     <Footer />
   </>
   )
