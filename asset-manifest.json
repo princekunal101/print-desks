@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9a8d748.css",
-    "main.js": "/static/js/main.86561483.js",
-    "static/js/592.2fb2ba49.chunk.js": "/static/js/592.2fb2ba49.chunk.js",
-    "index.html": "/index.html",
-    "main.a9a8d748.css.map": "/static/css/main.a9a8d748.css.map",
-    "main.86561483.js.map": "/static/js/main.86561483.js.map",
-    "592.2fb2ba49.chunk.js.map": "/static/js/592.2fb2ba49.chunk.js.map"
+    "main.css": "/printdesk.xyz/static/css/main.a9a8d748.css",
+    "main.js": "/printdesk.xyz/static/js/main.b301f8a8.js",
+    "static/js/592.2fb2ba49.chunk.js": "/printdesk.xyz/static/js/592.2fb2ba49.chunk.js",
+    "index.html": "/printdesk.xyz/index.html",
+    "main.a9a8d748.css.map": "/printdesk.xyz/static/css/main.a9a8d748.css.map",
+    "main.b301f8a8.js.map": "/printdesk.xyz/static/js/main.b301f8a8.js.map",
+    "592.2fb2ba49.chunk.js.map": "/printdesk.xyz/static/js/592.2fb2ba49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9a8d748.css",
-    "static/js/main.86561483.js"
+    "static/js/main.b301f8a8.js"
   ]
 }
