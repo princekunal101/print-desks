@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.6921cd50.css",
-    "main.js": "/static/js/main.5f791bbb.js",
+    "main.js": "/static/js/main.287c0d3b.js",
     "static/js/592.2fb2ba49.chunk.js": "/static/js/592.2fb2ba49.chunk.js",
     "static/media/sad-emoji.webp": "/static/media/sad-emoji.2f6b1c18104eea745011.webp",
     "index.html": "/index.html",
     "main.6921cd50.css.map": "/static/css/main.6921cd50.css.map",
-    "main.5f791bbb.js.map": "/static/js/main.5f791bbb.js.map",
+    "main.287c0d3b.js.map": "/static/js/main.287c0d3b.js.map",
     "592.2fb2ba49.chunk.js.map": "/static/js/592.2fb2ba49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6921cd50.css",
-    "static/js/main.5f791bbb.js"
+    "static/js/main.287c0d3b.js"
   ]
 }
