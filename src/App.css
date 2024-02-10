@@ -159,3 +159,12 @@ nav {
 .margin-all{
   margin: 16px;
 }
+
+.forbidden-emoji{
+  width: 200px;
+}
+
+.link-bld-blk{
+  font-weight: bold;
+  color: black;
+}

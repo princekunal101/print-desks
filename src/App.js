@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, BrowserRouter } from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
 import About from './pages/About';
@@ -8,7 +8,8 @@ import Page404 from './pages/404';
 
 function App() {
   return (
-    <BrowserRouter>
+
+    <Router>
       <Routes>
 
         <Route path='/' Component={Home}></Route>
@@ -18,7 +19,8 @@ function App() {
 
         <Route path='*' Component={Page404}></Route>
       </Routes>
-    </BrowserRouter>
+    </Router>
+
   );
 }
 
